@@ -1,5 +1,5 @@
 from django.shortcuts import render
-import datetime
+import datetime;
 
 # Create your views here.
 def wishes(request):
